@@ -1,6 +1,6 @@
 ## Hi I'm Phen 
 
-I'm a full stack developer with interest in any automation, scripting ,web development, systems and more 
+I'm a full stack developer with interest in automation, scripting ,web development, systems and more 
 
 
 Bring any ideas and I will build them
