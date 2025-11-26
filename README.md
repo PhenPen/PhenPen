@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi I'm Phen 
+
+I'm a full stack developer with interest in any automation, scripting ,web development, systems and more 
+
+
+Bring any ideas and I will build them
+
+
+
+You can check out my projects below
 
 <!--
 **PhenPen/PhenPen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
