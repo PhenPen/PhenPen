@@ -1,13 +1,6 @@
-## Hi I'm Phen 
+## I'm Phen 
 
-I'm a full stack developer with interest in automation, scripting ,web development, systems and more 
-
-
-Bring any ideas and I will build them
-
-
-
-You can check out my projects below
+An Electronics/computer engineer with knowledge on Fullstack development, APIs, Automation and Devops
 
 <!--
 **PhenPen/PhenPen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
